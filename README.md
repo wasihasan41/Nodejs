@@ -24,4 +24,7 @@ write _npm install <package_name_optional>_ or _npm i_ (it will install all depe
 ## package-lock.json
 (all dependencies in a tree which is needed to run the dependencies we installed)
 
-23:40 left
+## run any js code by typing node <filename> in the terminal 
+
+## common modules
+index.js {1-5}
